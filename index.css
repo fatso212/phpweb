@@ -1,0 +1,22 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+.one-third-vt {
+    width: 100%;
+    height: 30%;
+}
+.one-tenth-hz {
+    width: 10%;
+    height: 100%;
+}
+.yellow {
+    background: orange;
+}
+.red {
+    background: red;
+}
+.blue {
+    background: blue;
+}
